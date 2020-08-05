@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1523723542 source:c:\users\mohamed\desktop\essam\spellingchecker\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<algorithm>
+	<iostream>
+	<fstream>
+
+1524178174 source:c:\users\mohamed\desktop\spellingchecker\main.cpp
+	<bits/stdc++.h>
+
+1525266157 source:e:\aast\semester 4\data structure\project\spellingchecker\main.cpp
+	<bits/stdc++.h>
+
